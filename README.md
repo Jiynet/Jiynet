@@ -1,4 +1,4 @@
-## Hi there 👋
+<img align="right" width="440" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1300&width=440&lines=Hello,+Jiynet!;Explore+tech+&+build+things;Live+with+passion">
 
 <!--
 **Jiynet/Jiynet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
