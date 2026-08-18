@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+Jiynet!;Explore+tech+%26+build+things;Live+with+passion)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+Jiynet!)](https://git.io/typing-svg)
 <!--
 **Jiynet/Jiynet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
